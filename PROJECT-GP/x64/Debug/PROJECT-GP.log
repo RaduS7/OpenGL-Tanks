@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\GP\PROJECT-GP\PROJECT-GP\main.cpp(176,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GP\PROJECT-GP\PROJECT-GP\main.cpp(177,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GP\PROJECT-GP\PROJECT-GP\main.cpp(183,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GP\PROJECT-GP\PROJECT-GP\main.cpp(184,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GP\PROJECT-GP\PROJECT-GP\main.cpp(186,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GP\PROJECT-GP\PROJECT-GP\main.cpp(187,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GP\PROJECT-GP\PROJECT-GP\main.cpp(189,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PROJECT-GP.vcxproj -> D:\GP\PROJECT-GP\x64\Debug\PROJECT-GP.exe
